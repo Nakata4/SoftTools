@@ -11,7 +11,7 @@
 
     <parent>
         <artifactId>projectA</artifactId>
-        <groupId>uni.plovdiv</groupId>
+        <groupId>javaapp</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
