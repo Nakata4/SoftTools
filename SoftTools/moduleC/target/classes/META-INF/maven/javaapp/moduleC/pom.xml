@@ -5,14 +5,14 @@
     <packaging>jar</packaging>
     <parent>
         <artifactId>projectA</artifactId>
-        <groupId>uni.plovdiv</groupId>
+        <groupId>javaapp</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>moduleC</artifactId>
     <dependencies>
         <dependency>
-            <groupId>uni.plovdiv</groupId>
+            <groupId>javapp</groupId>
             <artifactId>moduleB</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
