@@ -5,7 +5,7 @@
     <packaging>jar</packaging>
     <parent>
         <artifactId>projectA</artifactId>
-        <groupId>uni.plovdiv</groupId>
+        <groupId>jarapp</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
